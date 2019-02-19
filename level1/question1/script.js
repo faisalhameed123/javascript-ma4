@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
     
    
 document.getElementById("button1").addEventListener("click",button);
@@ -8,4 +8,4 @@ document.getElementById("button1").addEventListener("click",button);
         alert("SUCCESS");
     }
       
-      </script>
+ 
