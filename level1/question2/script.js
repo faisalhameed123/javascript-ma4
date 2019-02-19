@@ -1,4 +1,4 @@
- <script>
+
  
      
      function personalcard(userid,id,title,completed){
@@ -58,4 +58,4 @@ fetch('https://jsonplaceholder.typicode.com/todos')
    
  
      
-        </script>
+       
