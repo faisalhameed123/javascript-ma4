@@ -1,0 +1,22 @@
+
+
+
+1, The DOM  defines a standard for accessing documents: "The W3C Document Object Model is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document.
+
+,2, Three methods of manipulating the DOM.
+
+•	addEventListener()
+•	removeEventListener()
+•	createElement()
+
+3,  Asynchronous calls do not block or wait for the API call to return from the server. Execution continues on in your program, and when the call returns from the server, a "callback" function is executed.
+
+4, Chromes Developers source tab is used to view files, edit CSS and JavaScript, create and save snippets of JavaScript. 
+
+5, JavaScript promise provide a cleaner, more elegent syntax and methodology to handle async calls.
+
+6, API stands for Application Program Interface, which can be defined as a set of methods of various communication between various software components.
+
+7, JavaScript`s interaction with HTML is handled through events that accur when the user or the browser manipulates the page and when the page loads, it is called an event. 
+
+8, Event Bubbling is the event starts from the deepest element or the target element to its parents, then all its ancestors that are on the way to bottom to top.
